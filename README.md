@@ -1,5 +1,7 @@
 <h3 align="center">An aspiring developer from Greece</h3>
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex247Git&show_icons=true&theme=radical" alt="alex247git stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex247Git&layout=compact&theme=radical" alt="alex247git top languages" height="150" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
