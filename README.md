@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Open%20to%20work-%E2%9C%85-brightgreen?style=for-the-badge" alt="Open to work">
 
 <h3 align="center">
-  Full-Stack Developer building secure, production-minded web apps.<br>
+  Developer & Tech Enthusiast
   <b>React · Node · Express · PHP · MySQL · Python</b>
 </h3>
 
