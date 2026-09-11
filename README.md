@@ -77,7 +77,7 @@ Agent-Based Model of wildfire spread + AI-driven suppression, visualized live.
 
 <div align="center">
 
-**⭐ Αν σ' αρέσουν τα projects, δώσε ένα ⭐ — ακόμα κ remember:**
+**⭐ If you like my projects, give a ⭐ — & remember:**
 
 > Made with ☕ & ❤️ — [Alex Adamos](https://github.com/Alex247Git)
 
