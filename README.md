@@ -1,5 +1,3 @@
-<h3 align="center">An aspiring developer from Greece</h3>
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/%F0%9F%9A%80-FULL--STACK%20DEVELOPER-%23FFD700?style=for-the-badge" alt="Full-Stack">
