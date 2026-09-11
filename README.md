@@ -17,7 +17,7 @@
 </h3>
 
 <!-- ⚡ PULSE LINE ⚡ -->
-<img src="https://raw.githubusercontent.com/iconiclands/agile/85c6d0de486abbe04e220ae6b0faeb5f2f5bd9bb/assets/github-contribution-grid-snake.svg" width="100%">
+![snake](https://raw.githubusercontent.com/Alex247Git/Alex247Git/output/snake/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -39,10 +39,9 @@
 ---
 
 <!-- ====== 🎓 EDUCATION ====== -->
-## 🎓 Εκπαίδευση
 
-- **MSc — Επιστήμη Δεδομένων / Informatique** · *Ελλάδα* *(linken το project του MSc)*
-- **BSc — Πληροφορική** (mention if applies)
+- **MSc — Software Engineering for Internet & Mobile Applications - University Of Thessaly**
+- **BSc — Digital Systems - University of Thessaly**
 
 ---
 
