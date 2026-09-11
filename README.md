@@ -24,17 +24,15 @@
 <!-- ====== 📈 SKILLS ====== -->
 ## 🧠 Core Skills
 
-| Skill | Επίπεδο |
-|-------|---------|
-| **JavaScript / React / Node.js** | ![](https://progress-bar.dev/85) |
-| **HTML / CSS** | ![](https://progress-bar.dev/90) |
-| **Python** | ![](https://progress-bar.dev/80) |
-| **PHP (Slim)** | ![](https://progress-bar.dev/75) |
-| **SQL / MySQL** | ![](https://progress-bar.dev/80) |
-| **Docker / CI/CD** | ![](https://progress-bar.dev/75) |
-| **Git & GitHub Actions** | ![](https://progress-bar.dev/85) |
-
-> 💬 *Progress bars είναι indicative — δες τα feature-rich repos για depth σε security, testing & CI.*
+| Skill | 
+|-------|
+| **JavaScript / React / Node.js** |
+| **HTML / CSS** |
+| **Python** |
+| **PHP (Slim)** |
+| **SQL / MySQL** | 
+| **Docker / CI/CD** |
+| **Git & GitHub Actions** | 
 
 ---
 
