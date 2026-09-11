@@ -20,21 +20,6 @@
 
 ---
 
-<!-- ====== 📈 SKILLS ====== -->
-## 🧠 Core Skills
-
-| Skill | 
-|-------|
-| **JavaScript / React / Node.js** |
-| **HTML / CSS** |
-| **Python** |
-| **PHP (Slim)** |
-| **SQL / MySQL** | 
-| **Docker / CI/CD** |
-| **Git & GitHub Actions** | 
-
----
-
 <!-- ====== 🛠️ PROJECTS ====== -->
 ## 🛠️ Featured Projects
 
@@ -55,6 +40,20 @@ Agent-Based Model of wildfire spread + AI-driven suppression, visualized live.
 - 🧠 Scientific depth — percolation threshold analysis at ~60% density
 - 🌬️ Wind · topography · weather dynamics
 - 📺 Real-time Solara dashboard
+
+---
+
+<!-- ====== 🧠 SKILLS ====== -->
+## 🧠 Core Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React (MUI) · HTML/CSS · Vanilla JS · Bootstrap · Vite |
+| **Backend** | Node.js · Express · PHP (Slim) · REST APIs |
+| **Data** | SQL/MySQL · JSON/XML |
+| **AI / Simulation** | Python · Mesa · Solara · NetworkX |
+| **DevOps** | Docker · Docker Compose · GitHub Actions · nginx |
+| **Security** | JWT · bcrypt · rate-limit · helmet · audit logs |
 
 ---
 
