@@ -21,6 +21,23 @@
 
 ---
 
+<!-- ====== 📈 SKILLS ====== -->
+## 🧠 Core Skills
+
+| Skill | Επίπεδο |
+|-------|---------|
+| **JavaScript / React / Node.js** | ![](https://progress-bar.dev/85) |
+| **HTML / CSS** | ![](https://progress-bar.dev/90) |
+| **Python** | ![](https://progress-bar.dev/80) |
+| **PHP (Slim)** | ![](https://progress-bar.dev/75) |
+| **SQL / MySQL** | ![](https://progress-bar.dev/80) |
+| **Docker / CI/CD** | ![](https://progress-bar.dev/75) |
+| **Git & GitHub Actions** | ![](https://progress-bar.dev/85) |
+
+> 💬 *Progress bars είναι indicative — δες τα feature-rich repos για depth σε security, testing & CI.*
+
+---
+
 <!-- ====== 🛠️ PROJECTS ====== -->
 ## 🛠️ Featured Projects
 
@@ -44,23 +61,6 @@ Agent-Based Model of wildfire spread + AI-driven suppression, visualized live.
 
 ---
 
-<!-- ====== 📈 SKILLS ====== -->
-## 🧠 Core Skills
-
-| Skill | Επίπεδο |
-|-------|---------|
-| **JavaScript / React / Node.js** | ![](https://progress-bar.dev/85) |
-| **HTML / CSS** | ![](https://progress-bar.dev/90) |
-| **Python** | ![](https://progress-bar.dev/80) |
-| **PHP (Slim)** | ![](https://progress-bar.dev/75) |
-| **SQL / MySQL** | ![](https://progress-bar.dev/80) |
-| **Docker / CI/CD** | ![](https://progress-bar.dev/75) |
-| **Git & GitHub Actions** | ![](https://progress-bar.dev/85) |
-
-> 💬 *Progress bars είναι indicative — δες τα feature-rich repos για depth σε security, testing & CI.*
-
----
-
 <!-- ====== 🎓 EDUCATION ====== -->
 ## 🎓 Εκπαίδευση
 
@@ -72,8 +72,6 @@ Agent-Based Model of wildfire spread + AI-driven suppression, visualized live.
 <!-- ====== 📬 CONTACT ====== -->
 ## 📬 Let's Connect
 
-| | |
-|--|--|
 | 💼 **LinkedIn** | [alexandros-adamos-227961331](https://www.linkedin.com/in/alexandros-adamos-227961331/) |
 | 📧 **Email** | [AlexAdamos247@gmail.com](mailto:AlexAdamos247@gmail.com) |
 | 🌐 **Portfolio page** | [Alex247Git.github.io](https://Alex247Git.github.io) |
