@@ -59,7 +59,7 @@ Agent-Based Model of wildfire spread + AI-driven suppression, visualized live.
 ---
 
 <!-- ====== 🎓 EDUCATION ====== -->
-## 🎓 Εκπαίδευση
+## 🎓 Education
 
 - **MSc — Software Engineering for Internet & Mobile Applications** · University of Thessaly
 - **BSc — Digital Systems** · University of Thessaly
