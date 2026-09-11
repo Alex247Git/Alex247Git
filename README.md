@@ -68,15 +68,15 @@ Agent-Based Model of wildfire spread + AI-driven suppression, visualized live.
 <!-- ====== 📬 CONTACT ====== -->
 ## 📬 Let's Connect
 
-| 💼 **LinkedIn** | [alexandros-adamos-227961331](https://www.linkedin.com/in/alexandros-adamos-227961331/) |
-| 📧 **Email** | [AlexAdamos247@gmail.com](mailto:AlexAdamos247@gmail.com) |
-| 🌐 **Portfolio page** | [Alex247Git.github.io](https://Alex247Git.github.io) |
-| 🐙 **GitHub** | [Alex247Git](https://github.com/Alex247Git) |
+- **LinkedIn** → [alexandros-adamos](https://www.linkedin.com/in/alexandros-adamos-227961331/)
+- **Email** → [AlexAdamos247@gmail.com](mailto:AlexAdamos247@gmail.com)
+- **Portfolio** → [Alex247Git.github.io](https://Alex247Git.github.io)
+- **GitHub** → [Alex247Git](https://github.com/Alex247Git)
 
 <div align="center">
 
 **⭐ If you like my projects, give a ⭐ — & remember:**
 
- Made with ☕ & ❤️ — [Alex Adamos](https://github.com/Alex247Git)
+> Made with ☕ & ❤️ — [Alex Adamos](https://github.com/Alex247Git)
 
 </div>
