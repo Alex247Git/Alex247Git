@@ -11,7 +11,6 @@
 
 <h3 align="center">
   Developer & Tech Enthusiast
-  <b>React · Node · Express · PHP · MySQL · Python</b>
 </h3>
 
 <!-- ⚡ CONTRIBUTION PULSE (auto-updates every 12h) -->
