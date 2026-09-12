@@ -26,7 +26,7 @@
 ### 💼 [JobSearch Platform](https://github.com/Alex247Git/jobsearch) · **Full-Stack** · `React 18 · Express · MySQL`
 AI-powered job marketplace with **semantic matching (ONNX)**, real-time chat, and **production-grade security**.
 - 🔐 0 npm audit vulnerabilities · JWT · bcrypt · rate-limit · IDOR-safe
-- 🧪 23 backend + 7 frontend tests · CI green on push
+- 🧪 27 backend + 7 frontend tests (34 total) · CI green on push
 - 🐳 Docker Compose one-command · GitHub Actions
 
 ### 🗺️ [Alumni Career Map](https://github.com/Alex247Git/alumni-career-map) · **Full-Stack** · `PHP Slim 4 · MySQL · Leaflet`
