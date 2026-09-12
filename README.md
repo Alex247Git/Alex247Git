@@ -1,7 +1,5 @@
 <div align="center">
-
 <br><br>
-
 <!-- 👋 HERO -->
 <h1>👋 Hi, I'm <span style="color:#FFD700">Alex</span> 👨💻</h1>
 
