@@ -46,14 +46,13 @@ Agent-Based Model of wildfire spread + AI-driven suppression, visualized live.
 - 📺 Real-time Solara dashboard
 
 ---
+
 <!-- ====== 🧠 TECH STACK ICONS ====== -->
 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,php,python,mysql,postgresql,docker,git,github,vite,bootstrap,linux&theme=dark" alt="Tech Stack Icons" />
 </p>
-
----
 
 <!-- ====== 🧠 SKILLS ====== -->
 ## 🧠 Core Skills
