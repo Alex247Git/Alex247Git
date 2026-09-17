@@ -64,8 +64,9 @@ Agent-Based Model of wildfire spread + AI-driven suppression, visualized live.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex247Git&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex247Git&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=Alex247Git&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/repos/Alex247Git?style=flat-square&color=success" alt="Public Repos" />
+  <img src="https://img.shields.io/github/followers/Alex247Git?style=flat-square&color=orange" alt="Followers" />
 </p>
 
 ---
