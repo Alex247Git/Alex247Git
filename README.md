@@ -3,13 +3,19 @@
 <!-- 👋 HERO -->
 <h1>👋 Hi, I'm <span style="color:#FFD700">Alex</span> 👨💻</h1>
 
+<div align="center">
+
+<!-- Top Row -->
 <img src="https://img.shields.io/badge/%F0%9F%9A%80-FULL--STACK%20DEVELOPER-%23FFD700?style=for-the-badge" alt="Full-Stack">
 <img src="https://img.shields.io/badge/Greece-%F0%9F%87%AC%F0%9F%87%B7-Green?style=for-the-badge" alt="Greece">
 <img src="https://img.shields.io/badge/Open%20to%20work-%E2%9C%85-brightgreen?style=for-the-badge" alt="Open to work">
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alex247Git&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Alex247Git?style=flat-square&color=orange" alt="Followers" />
-</p>
+
+<!-- Bottom Row -->
+<img src="https://komarev.com/ghpvc/?username=Alex247Git&style=for-the-badge&color=blue" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Alex247Git?style=for-the-badge&color=orange" alt="Followers" />
+
+</div>
+
 <h3 align="center">
   Developer & Tech Enthusiast
 </h3>
