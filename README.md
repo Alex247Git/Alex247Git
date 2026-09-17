@@ -50,15 +50,14 @@ Agent-Based Model of wildfire spread + AI-driven suppression, visualized live.
 <!-- ====== 🧠 SKILLS ====== -->
 ## 🧠 Core Skills
 
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React (MUI) · HTML/CSS · Vanilla JS · Bootstrap · Vite |
-| **Backend** | Node.js · Express · PHP (Slim) · REST APIs |
-| **Data** | SQL/MySQL · JSON/XML |
-| **AI / Simulation** | Python · Mesa · Solara · NetworkX |
-| **DevOps** | Docker · Docker Compose · GitHub Actions · nginx |
-| **Security** | JWT · bcrypt · rate-limit · helmet · audit logs |
-
+| Category             | Technologies                                                                               |
+|----------------------|--------------------------------------------------------------------------------------------|
+| Frontend & Languages | React (MUI) · TypeScript · JavaScript · HTML/CSS · Bootstrap · Vite                        |
+| Backend & APIs       | Node.js · Express · PHP (Slim) · REST APIs                                                 |
+| Databases & Data     | MySQL · PostgreSQL · SQL · JSON/XML                                                        |
+| AI & Simulation      | ONNX Runtime · Python · Mesa · Solara · NetworkX                                           |
+| DevOps & Testing     | Docker · Docker Compose · GitHub Actions · Unit Testing (Jest/Vitest/pytest) · Git · nginx |
+| Security             | JWT · RBAC · bcrypt · rate-limit · helmet · audit logs                                     |
 ---
 
 <!-- ====== 🎓 EDUCATION ====== -->
