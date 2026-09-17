@@ -6,7 +6,10 @@
 <img src="https://img.shields.io/badge/%F0%9F%9A%80-FULL--STACK%20DEVELOPER-%23FFD700?style=for-the-badge" alt="Full-Stack">
 <img src="https://img.shields.io/badge/Greece-%F0%9F%87%AC%F0%9F%87%B7-Green?style=for-the-badge" alt="Greece">
 <img src="https://img.shields.io/badge/Open%20to%20work-%E2%9C%85-brightgreen?style=for-the-badge" alt="Open to work">
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alex247Git&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Alex247Git?style=flat-square&color=orange" alt="Followers" />
+</p>
 <h3 align="center">
   Developer & Tech Enthusiast
 </h3>
@@ -60,14 +63,6 @@ Agent-Based Model of wildfire spread + AI-driven suppression, visualized live.
 
 - **MSc — Software Engineering for Internet & Mobile Applications** · University of Thessaly
 - **BSc — Digital Systems** · University of Thessaly
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alex247Git&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/repos/Alex247Git?style=flat-square&color=success" alt="Public Repos" />
-  <img src="https://img.shields.io/github/followers/Alex247Git?style=flat-square&color=orange" alt="Followers" />
-</p>
 
 ---
 
